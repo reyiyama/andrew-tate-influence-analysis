@@ -315,6 +315,7 @@ If you want to conduct a similar analysis or reproduce our results, follow these
 - **NLTK, Gensim, Scikit-learn** for text processing, sentiment analysis, and topic modeling.
 - **NetworkX and Gephi** for network construction and visualization.
 - **Pandas** for data manipulation and **Matplotlib** for basic visualizations.
+- **Gephi** for Network Visualization
 
 ### Conclusion
 Our project illustrates the importance of monitoring and analyzing the influence of figures like Andrew Tate. It sheds light on how online discussions can shape public perception and influence social behaviors, particularly among young audiences. By understanding the content dynamics, sentiments, and network structures, we can better address misinformation, toxic behaviors, and polarization on social media.
