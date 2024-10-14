@@ -1,4 +1,4 @@
-# Analyzing Andrew Tate's Influence Online: A Comprehensive Project
+# Analyzing Andrew Tate's Digital Influence
 
 <img width="1104" alt="Screenshot 2024-10-15 at 12 47 50 AM" src="https://github.com/user-attachments/assets/d02bf8c0-86e4-4799-a6c6-a9e78affc102">
 
